@@ -8,7 +8,7 @@
 - Formado em Análise e Desenvolvimentos de Sistemas.
 - Criação e Manutenção de Microsserviços com APIs REST.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guelhermedev&show_icons=true&theme=tokyonight)
 ## Tecnologias 
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) 
